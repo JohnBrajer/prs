@@ -3,6 +3,7 @@ message: "If you use or reference this work, please cite it as below."
 title: "PRS by John Brajer"
 abstract: "PRS by John Brajer: Possibility, Risk Perception, and Status Payoff as a CWI decision lens."
 type: software
+doi: "10.5281/zenodo.23718117"
 authors:
   - family-names: Brajer
     given-names: John
